@@ -912,7 +912,7 @@
  *
  * In the following example the X and Y offsets are both positive:
  *
- *   #define NOZZLE_TO_PROBE_OFFSET { 10, 10, 0 }
+ *   #define NOZZLE_TO_PROBE_OFFSET { -48, -10, 0 } // PetsFang BTL Left of the probe
  *
  *     +-- BACK ---+
  *     |           |
